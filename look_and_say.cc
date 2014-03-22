@@ -1,3 +1,15 @@
+/*
+
+This is just a short program that outputs the the next line in the look-and-say
+sequence. It lets you pick a starting value, though it turns out that doesnt 
+matter unless you start it at 1. For more info on that, try it out.
+
+http://en.wikipedia.org/wiki/Look-and-say_sequence
+
+*/
+
+
+
 using namespace std;
 #include <iostream>
 
