@@ -52,8 +52,6 @@ public:
   void GetValue() {
     for (int i = 0; i < index; i++) {
       cout << value[i] << " ";
-      //cout << endl << "index = " << index << endl;
-      //cout << "i = " << i << endl;
     }
   }
   
