@@ -1,0 +1,2 @@
+$Regex_Pattern = '(?<![aeiouAEIOU]).';
+
